@@ -1,0 +1,10 @@
+.titleDiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.titleList {
+    font-family: 'Raleway';
+    font-size: 3em;
+    color: #5f4a54;
+}
