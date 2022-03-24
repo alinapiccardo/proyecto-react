@@ -1,0 +1,21 @@
+.containerCards h2 {
+    color: #5f4a54;
+    font-family: 'Raleway';
+}
+
+.containerCards p {
+    color: #2c2428;
+    font-family: 'Raleway';
+    font-weight: 300;
+}
+
+.btnBuy {
+    background-color: #a38694;
+    border: none;
+    border-radius: 4px;
+    color: #e0cbd5;
+    font-family: 'Raleway';
+    margin: 20px 5px;
+    padding: 10px 20px;
+    box-shadow: 2px 1px 2px #49454942;
+}
